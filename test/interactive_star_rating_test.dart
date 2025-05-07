@@ -3,7 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:animated_star_rating/animated_star_rating.dart';
 
 void main() {
-  testWidgets('Interactive Star Rating widget test', (WidgetTester tester) async {
+  testWidgets('Interactive Star Rating widget test',
+      (WidgetTester tester) async {
     double rating = 0.0;
 
     await tester.pumpWidget(

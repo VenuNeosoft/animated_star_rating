@@ -1,7 +1,7 @@
 name: animated_star_rating
 description: "A Flutter package for animated star ratings with customizable animations."
-version: 1.0.0
-homepage: "https://github.com/yourusername/animated_star_rating"  # Optional
+version: 1.0.1
+homepage: "https://github.com/VenuNeosoft/animated_star_rating.git"  # Optional
 
 environment:
   sdk: ">=3.0.0 <4.0.0"

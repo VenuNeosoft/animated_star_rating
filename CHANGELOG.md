@@ -1,3 +1,11 @@
+## 1.0.1
+
+- Added Dartdoc comments to improve code documentation and clarity.
+- Enhanced documentation for the main library and core components.
+- Improved the public API documentation coverage for better readability and usability.
+- Fixed minor code formatting issues to ensure cleaner structure.
+
+
 ## 1.0.0
 
 - Initial release of the `animated_star_rating` package.

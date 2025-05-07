@@ -3,6 +3,7 @@ class Rating {
 
   Rating(this.value);
 }
+
 enum StarAnimationType {
   scale,
   rotate,
