@@ -1,4 +1,4 @@
-library animated_star_rating;
+library;
 
 export 'src/widgets/star_rating_widget.dart';
 export 'src/models/rating_model.dart';

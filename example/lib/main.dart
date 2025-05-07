@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           initialRating: 3.0,
           animationType: animationType,
           onRatingChanged: (rating) {
-            print('$label Rating changed: $rating');
+            // print('$label Rating changed: $rating');
           },
         ),
         const SizedBox(height: 24),
